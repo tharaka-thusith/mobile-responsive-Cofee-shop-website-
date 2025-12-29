@@ -1,2 +1,2 @@
 # Cofee-shop-website
-CSS,HTML
+This project is a simple yet elegant responsive website built using HTML, CSS, and JavaScript. It features a fixed header with navigation, a hero section with animation, product and customer testimonial grids, and a structured footer. The design adapts seamlessly across desktop, tablet, and mobile devices using CSS Grid and media queries. A JavaScript toggle function powers the mobile navigation menu, ensuring smooth user interaction. The project demonstrates modern front‑end practices such as CSS variables, transitions, and responsive layouts, making it a great starting point for learning or showcasing web development fundamentals.
